@@ -1,4 +1,3 @@
-Pongsiri Tonsuk
-Mightycat24@gmail.com
-
+# Pongsiri Tonsuk
+## pongsiro@ais.co.th
 # cdc-pongsiri-first-repos
